@@ -1,0 +1,21 @@
+{
+  "name": "osh-async-parallel",
+  "version": "0.0.0",
+  "description": "openscihub.org: imitation of async.parallel",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -C"
+  },
+  "keywords": [
+    "async",
+    "parallel"
+  ],
+  "author": "Carl A. Bauer",
+  "license": "MIT",
+  "devDependencies": {
+    "expect.js": "^0.3.1"
+  }
+}
